@@ -1,0 +1,32 @@
+
+
+Google api = AIzaSyCvxxlQ98RBdGsC067EjaWI5d0hOgvLMCU
+
+https://developers.google.com/maps/documentation/javascript/get-api-key
+
+https://console.cloud.google.com/apis/credentials?folder=&organizationId=&project=twiiter-240704
+
+https://stackoverflow.com/questions/17628161/determine-tweet-location-with-twitter-api   =========end point for location
+
+https://stackoverflow.com/questions/3807963/how-to-get-longitude-and-latitude-of-any-address
+
+
+======Twitter Credentials==========
+
+thecoderulez@gmail.com
+6mv75FN&^1
+
+Link = https://coderulez.com/dev/twitter_app/
+
+
+https://stackoverflow.com/questions/8633574/get-latitude-and-longitude-automatically-using-php-api
+
+4007000000027
+
+https://stevemorse.org/jcal/latlon.php
+
+https://developers.google.com/maps/documentation/geocoding/intro ===Geocoding
+
+https://developers.google.com/maps/documentation/javascript/geocoding ===to enable map and geocoding
+
+13.0826802,80.2707184

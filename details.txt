@@ -1,0 +1,54 @@
+Cpanel Login :
+
+https://sg2plcpnl0009.prod.sin2.secureserver.net:2083/
+
+Username : n6vc6t8e7ihc
+Password : GKfKxQ6?8h|H
+
+
+FTP : 
+
+FTP Username: pankaj@tafa2na.com
+FTP server: tafa2na.com
+FTP & explicit FTPS port:  21
+Password : ULdKbxcT@Du_
+
+Database User ; 
+
+Username : pankaj
+Password : 3hR]Kx.59SmX
+Database Name : tafa2na
+
+
+http://tafa2na.com/login
+yazan@example.com
+123456
+
+Google map api = AIzaSyCvxxlQ98RBdGsC067EjaWI5d0hOgvLMCU
+
+
+
+https://developer.mapworks.io/developers/tutorials/mapworks-what3words-integration   =========map works api
+
+https://support.mapworks.io/support/tickets/920  ======== ticket map work
+
+
+https://demo.what3words.com/embedded/  =============map integrate what3word
+
+https://twitter.com/what3words/status/784059494191988737   ==========from twitter what3word
+
+
+
+
+
+https://github.com/Logic-gate/What3words-map-marker
+
+https://github.com/trungk18/what3words-api-v2-google-map-marker
+
+https://stackoverflow.com/questions/42995154/what3words-apiv2-ui-wrapper-with-google-maps
+
+https://github.com/Logic-gate/What3words-map-marker
+
+https://github.com/what3words/w3w-php-wrapper
+
+https://developer.fulcrumapp.com/data-events/examples/get-what3words/

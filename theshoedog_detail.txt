@@ -1,0 +1,185 @@
+
+ =====To get theme ==============================
+
+http://sitemile.us/single-sites/auction/
+
+
+=====================refernce site ===============================
+
+https://stockx.com/nike
+
+============================my site==========================
+theshoedog.co.za/
+
+
+========================== fetch products ==========================
+www.stadiumgoods.com
+
+
+======================================FTP============================
+client details :-
+
+ftp details :- 
+
+ftp.theshoedog.co.za
+theshvgc
+)k8)f~05-sqg
+
+
+======================NEW FTP=================
+FTP Username: theshoedog@theshoedog.co.za
+FTP server: ftp.theshoedog.co.za
+FTP & explicit FTPS port:  21
+pass : 7zLFXOa.s+6b
+
+
+
+================================================= Cpanel======================================
+cpanel details:-
+
+Go to URL: http://mail.theshoedog.co.za/cpanel/
+Username: theshvgc
+Password : )k8)f~05-sqg
+
+
+===============================New Cpanel===================================
+
+https://host34.axxesslocal.co.za:2083/
+username : msogcoct
+password : c8r$xd9EutdtNm76n@
+
+
+==================================database======================================
+
+databse details:-
+
+user_name = theshvgc_theshoedog
+databse name = theshvgc_theshoedog
+password = )8*yEH1dJ^IM
+
+
+=========================New Database===========
+
+
+https://host34.axxesslocal.co.za:2083/cpsess3182419032/3rdparty/phpMyAdmin/index.php
+user_name = msogcoct_shoedog
+database name = msogcoct_theshoedog
+pass = ,9Ef*#d-QSXm
+
+ 
+ msogcoct_checktheme
+ msogcoct_check
+FjZ[.2iwsJS?
+
+
+======================== New Wp-admin server =====================
+
+username : theshoedog  (wrong)
+pass: qfOn3sR5qUq48vxYJZ  (wrong)
+
+
+
+username = root
+pass = suraj@123
+
+
+
+======================cloud9 details wp-admin===============================
+
+https://auction-pankajsaini8889.c9users.io/
+username = theshoedog
+password = d2V5jE0p%QNCb8tTRt
+
+===============CLoud9 customer login============================== 
+
+login
+aash   ================aashimataneja32@yahoo.com
+@@12345shima
+
+pankajsaini
+P@nk@j_123
+
+suraj
+suraj@123
+
+Aashima
+@@12345shima
+
+jack      ======aashima.codingxperts@gmail.com
+@@12345shima
+
+====================================================================
+
+========================server wp-admin==================
+
+username = root
+pass = suraj@123
+
+
+
+ref webiste(Stockx)
+pankajsaini32@yahoo.com
+p@nkaj123
+
+OR
+login with facebook
+
+
+
+================Backup download credentials=================
+
+https://starfox.aserv.co.za:2083/cpsess5585676804/download?file=backup-5.17.2019_08-50-23_theshvgc.tar.gz
+
+username: theshvgc
+password: wZcWmMHyogqar1
+
+
+
+<?php echo ($only_buy_now != "1" ? 'display:none' : '');  ?>  473
+
+
+
+1555580433
+
+
+www.alibaba.com
+
+
+https://docs.aliseeks.com/api/#postman
+
+paypal account
+
+aashimataneja32@yahoo.com
+@@shima135
+
+issue paypal plugin(for currency)
+https://wordpress.org/support/topic/gateway-disabled-paypal-does-not-support-your-store-currency-6/
+
+[wp_paypal button="buynow" name="My product" amount="1.00"]
+==========Plugin=================
+https://wordpress.org/plugins/wp-paypal/
+
+https://wordpress.org/plugins/wordpress-simple-paypal-shopping-cart/
+
+====================================
+====================Issue=============
+
+https://wordpress.org/support/topic/change-text-of-specific-page-in-the-trail/
+
+https://wordpress.org/support/topic/change-text-of-specific-page-in-the-trail/
+
+username: theshvgc
+password: wZcWmMHyogqar1
+
+
+You can reach them on 0861 300 900 or via hosting@internet.co.za
+
+
+https://wpeverest.com/support-forum/forum/user-registration/                   ===========registration plugin support
+
+
+4a4b35bb5449a78372d0dc0cd5da3e70
+
+
+allow_url_fopen
+
